@@ -1,0 +1,8 @@
+c:\users\1\documents\visual studio 2017\Projects\ServerSocket\ServerSocket\bin\Debug\ServerSocket.exe.config
+c:\users\1\documents\visual studio 2017\Projects\ServerSocket\ServerSocket\bin\Debug\ServerSocket.exe
+c:\users\1\documents\visual studio 2017\Projects\ServerSocket\ServerSocket\bin\Debug\ServerSocket.pdb
+c:\users\1\documents\visual studio 2017\Projects\ServerSocket\ServerSocket\bin\Debug\Newtonsoft.Json.dll
+c:\users\1\documents\visual studio 2017\Projects\ServerSocket\ServerSocket\bin\Debug\Newtonsoft.Json.xml
+c:\users\1\documents\visual studio 2017\Projects\ServerSocket\ServerSocket\obj\Debug\ServerSocket.csprojResolveAssemblyReference.cache
+c:\users\1\documents\visual studio 2017\Projects\ServerSocket\ServerSocket\obj\Debug\ServerSocket.exe
+c:\users\1\documents\visual studio 2017\Projects\ServerSocket\ServerSocket\obj\Debug\ServerSocket.pdb

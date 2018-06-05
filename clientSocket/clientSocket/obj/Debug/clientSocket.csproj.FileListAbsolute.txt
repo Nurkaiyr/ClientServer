@@ -1,0 +1,5 @@
+C:\Users\ТогузбаевА\Desktop\clientSocket\clientSocket\bin\Debug\clientSocket.exe.config
+C:\Users\ТогузбаевА\Desktop\clientSocket\clientSocket\bin\Debug\clientSocket.exe
+C:\Users\ТогузбаевА\Desktop\clientSocket\clientSocket\bin\Debug\clientSocket.pdb
+C:\Users\ТогузбаевА\Desktop\clientSocket\clientSocket\obj\Debug\clientSocket.exe
+C:\Users\ТогузбаевА\Desktop\clientSocket\clientSocket\obj\Debug\clientSocket.pdb
